@@ -1,0 +1,9 @@
+node_modules/
+build/
+dist/
+public/
+server/
+*.config.js
+*.config.cjs
+yarn.lock
+package-lock.json

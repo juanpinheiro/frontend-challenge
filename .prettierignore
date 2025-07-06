@@ -1,0 +1,8 @@
+node_modules/
+build/
+dist/
+public/
+server/
+yarn.lock
+index.html
+vite.config.js
